@@ -30,4 +30,5 @@ else if(userChoice == 2){
     }
 else{
     alert("il numero inserito non è valido")
+    location.reload()
 }
